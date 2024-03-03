@@ -88,7 +88,7 @@ header a:hover{
   color:#ffffff;
   position: relative;
   height: 400px;
-  background: url('../img/showcase.jpg') no-repeat;
+  background: url('showcase.jpg') no-repeat;
 
 }
 
@@ -219,7 +219,7 @@ footer{
 }
 
 #gradient{
-    background-image: url('../img/b.jpg');
+    background-image: url('b.jpg');
     text-align: center;
     padding: 30px;
     background-position: center;
